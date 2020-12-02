@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 @app.route("/") 
 def home_view(): 
-		return "<h1>Welcome to Geeks for Geeks</h1>"
+		return "<h1>Yeah, the site works</h1>"
 
 @app.route('/bot', methods=['POST'])
 def bot():
