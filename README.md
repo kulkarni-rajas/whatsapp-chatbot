@@ -2,5 +2,6 @@
 
 ### Flask API
 
+- Uses Heroku
 
 API hosted [here](https://whatsapp-autoreply-sandbox.herokuapp.com)
